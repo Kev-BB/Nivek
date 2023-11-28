@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.e7c1e064.css",
-    "main.js": "/static/js/main.ec9f9df5.js",
-    "index.html": "/index.html",
-    "main.e7c1e064.css.map": "/static/css/main.e7c1e064.css.map",
-    "main.ec9f9df5.js.map": "/static/js/main.ec9f9df5.js.map"
+    "main.css": "/Nivek/static/css/main.e7c1e064.css",
+    "main.js": "/Nivek/static/js/main.ec9f9df5.js",
+    "index.html": "/Nivek/index.html",
+    "main.e7c1e064.css.map": "/Nivek/static/css/main.e7c1e064.css.map",
+    "main.ec9f9df5.js.map": "/Nivek/static/js/main.ec9f9df5.js.map"
   },
   "entrypoints": [
     "static/css/main.e7c1e064.css",
